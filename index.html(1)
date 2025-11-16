@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explicación html</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Discord</h1>
+    <p>Discord es otra red social, muy utilizada entre gamers para hablar y jugar.</p>
+    <h2>Utilidades</h2>
+            <ul>
+                <li>Sitve para comunicarse</li>
+                <li>Puedes hablar con personas a millones de metros de distancia</li>
+                <li>Usado para hablar con amigos que están lejos mientras se juega videojuegos</li>
+            </ul>
+            <h2>Que hemos hecho hasta ahora</h2>
+            <ol>
+                <li>Crear un bot</li>
+                <li>Programar ese bot y adjuntarlo al servidor</li>
+            </ol>
+    <img src="img/image1.png" alt="Image 1">
+    <p>Esto es solo un poco de información sobre lo que se puede hacer en discord</p>
+</body>
+</html>
