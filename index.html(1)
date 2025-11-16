@@ -3,24 +3,43 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Explicación html</title>
+    <title>Redes</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Discord</h1>
-    <p>Discord es otra red social, muy utilizada entre gamers para hablar y jugar.</p>
-    <h2>Utilidades</h2>
-            <ul>
-                <li>Sitve para comunicarse</li>
-                <li>Puedes hablar con personas a millones de metros de distancia</li>
-                <li>Usado para hablar con amigos que están lejos mientras se juega videojuegos</li>
-            </ul>
-            <h2>Que hemos hecho hasta ahora</h2>
-            <ol>
-                <li>Crear un bot</li>
-                <li>Programar ese bot y adjuntarlo al servidor</li>
-            </ol>
-    <img src="img/image1.png" alt="Image 1">
-    <p>Esto es solo un poco de información sobre lo que se puede hacer en discord</p>
+    <heade>
+        <h1>
+            La Dependencia a las redes sociales
+        </h1>
+    </heade>
+    <h2>Dependencia a las redes sociales</h2>
+    <main>
+        <p>Las redes sociales reducen el tiempo que pasamos en el mundo real. También condicionan nuestra mente a constantes actualizaciones de noticias y publicaciones, lo que a la larga puede resultar estresante.</p>
+        <img src="https://media3.giphy.com/media/26BGGxgsEh42ABHFe/giphy.gif?cid=ecf05e47fewnmm2h6vijgpd1768vz8zxo441mpec89684gtw&rid=giphy.gif&ct=g" alt="Image 1">
+        <h2>¿Como podemos resistir a la dependientes a las redes sociales</h2>
+        <ul>
+			<li>Podemos poner límites al tiempo que pasamos en línea o en nuestros dispositivos.</li>
+			<li>Podemos programar un tiempo libre de tecnología para relajarnos y desconectar.</li>
+		</ul>
+        <a href="https://bhpsicologia.com/adiccion-a-las-pantallas">Más informción aquí</a>
+
+        <h2>Clima CR, Alajuela, Sarchí Norte,</h2>
+        <a class="weatherwidget-io" href="https://forecast7.com/en/10d09n84d35/sarchi/" data-label_1="ALAJUELA PROVINCE" data-label_2="WEATHER" data-theme="original" >ALAJUELA PROVINCE WEATHER</a>
+        <script>
+            !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+        </script>
+        <h2>Mapa — Bogotá</h2>
+        <iframe
+                width="600"
+            height="450"
+            frameborder="0"
+            scrolling="no"
+            src="https://www.openstreetmap.org/export/embed.html?bbox=-74.12%2C4.60%2C-74.02%2C4.78&layer=mapnik&marker=4.711%2C-74.072">
+        </iframe>
+        <p>
+        <a href="https://www.openstreetmap.org/?mlat=4.711&amp;mlon=-74.072#map=13/4.711/-74.072" target="_blank" rel="noopener">Ver mapa más grande</a>
+        </p>
+        
+    </main>
 </body>
 </html>
