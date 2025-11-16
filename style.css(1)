@@ -1,0 +1,22 @@
+body {
+    font-family: Arial,  sans-serif; /* Familia de fuentes */
+    font-size: 12px; /* El tamaño de la fuente principal en el tag <p></p> */
+    background-color: #000000; /* El color del fondo de la página web */
+    color: #e3e3eb; /* El color del texto*/ 
+    margin: 25px;
+}
+h1 {
+    color: #2500fa; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; /* La familia tipográfica utilizada en la cabecera */
+}
+
+image{
+    width: 25%;
+    height: 25%;
+    padding: 10px;
+}
+
+p{
+    font-size: 15px; 
+}
